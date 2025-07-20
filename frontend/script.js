@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // --- CONFIGURATION ---
     // Make sure this URL points to your deployed FastAPI backend
-    const API_BASE_URL = 'http://127.0.0.1:8000'; 
+    const API_BASE_URL = 'https://cleardeal-internship-assignment-ii-lead.onrender.com'; 
 
     // --- DOM ELEMENT REFERENCES ---
     const leadForm = document.getElementById('lead-form');

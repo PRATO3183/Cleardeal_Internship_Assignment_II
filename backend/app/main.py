@@ -17,6 +17,7 @@ origins = [
     "http://localhost",
     "http://localhost:5173", # Default for Vite dev server
     "http://127.0.0.1:5500", # Default for VS Code Live Server
+    "https://687d3bc32ff23ff169565803--lead-generation-project.netlify.app", # Generated URL from Netlify
     # Add your deployed Netlify frontend URL here later
     # e.g., "https://your-app-name.netlify.app"
 ]
